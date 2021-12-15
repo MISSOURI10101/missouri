@@ -22,6 +22,8 @@ const Home: NextPage = () => {
           href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap"
           rel="stylesheet"
         />
+        <title>Missouri</title>
+        <meta name="description" content="Missouri company" />
       </Head>
 
       <Container maxW={"3xl"}>
